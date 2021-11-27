@@ -4,8 +4,8 @@ from scipy.special import erf
 
 from fluid import Fluid
 
-RESOLUTION = 500, 500
-DURATION = 200
+RESOLUTION = 1200, 1200 #1200, 1200
+DURATION = 1200
 
 INFLOW_PADDING = 50
 INFLOW_DURATION = 60
